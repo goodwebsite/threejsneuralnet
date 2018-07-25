@@ -1,2 +1,2 @@
 # threejsneuralnet
-an existing code for displayig a live neural net
+an existing code for displaying a live neural net
